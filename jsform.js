@@ -1,4 +1,4 @@
-
+window.setInterval(()=>{window.document.title="Validation Form"},1000)
 
 const form = document.getElementById("mainform");
 
